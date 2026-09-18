@@ -1,0 +1,251 @@
+employee_id,employee_name,phone_number,email,city,work_category,store_id,joining_date,salary,status
+1,Harish Raj,9845600001,harish.raj1@retailiq.com,Bangalore,Customer Support,46,2021-10-01,27596,1
+2,Kiran Singh,9845600002,kiran.singh2@retailiq.com,Bangalore,Sales Executive,45,2021-05-06,22681,1
+3,Anand Singh,9845600003,anand.singh3@retailiq.com,Pune,Sales Executive,40,2025-10-12,31834,1
+4,Rahul Rao,9845600004,rahul.rao4@retailiq.com,Kochi,Security,8,2026-03-29,18902,1
+5,Bharath Pillai,9845600005,bharath.pillai5@retailiq.com,Pune,Customer Support,39,2023-06-01,24702,1
+6,Vignesh Mishra,9845600006,vignesh.mishra6@retailiq.com,Mumbai,Technician,10,2024-05-18,39239,1
+7,Aravind Babu,9845600007,aravind.babu7@retailiq.com,Ahmedabad,Cashier,3,2026-06-14,27033,1
+8,Yogesh Murugan,9845600008,yogesh.murugan8@retailiq.com,Delhi,Housekeeping,17,2023-01-20,19844,1
+9,Praveen Raj,9845600009,praveen.raj9@retailiq.com,Chennai,Cashier,28,2025-06-24,20924,1
+10,Abhishek Joseph,9845600010,abhishek.joseph10@retailiq.com,Coimbatore,Sales Executive,27,2021-02-26,26383,1
+11,Karthik Ali,9845600011,karthik.ali11@retailiq.com,Chennai,Sales Executive,37,2022-06-13,23830,1
+12,Abhishek Murugan,9845600012,abhishek.murugan12@retailiq.com,Coimbatore,Cashier,39,2026-03-16,26554,1
+13,Gokul Iyer,9845600013,gokul.iyer13@retailiq.com,Kochi,Inventory Associate,29,2026-05-21,24370,1
+14,Mohan Reddy,9845600014,mohan.reddy14@retailiq.com,Hyderabad,Technician,26,2024-01-25,30312,0
+15,Karthik Ravi,9845600015,karthik.ravi15@retailiq.com,Kochi,Technician,1,2026-03-03,33676,1
+16,Vignesh Menon,9845600016,vignesh.menon16@retailiq.com,Ahmedabad,Technician,42,2024-10-27,38459,1
+17,Suresh Raman,9845600017,suresh.raman17@retailiq.com,Pune,Cashier,5,2024-02-01,21787,1
+18,Arjun Gupta,9845600018,arjun.gupta18@retailiq.com,Kolkata,Technician,21,2024-09-04,34905,1
+19,Naveen Menon,9845600019,naveen.menon19@retailiq.com,Delhi,Cashier,18,2022-12-10,26506,1
+20,Madhan Yadav,9845600020,madhan.yadav20@retailiq.com,Pune,Cashier,22,2025-10-30,23160,1
+21,Praveen Pandey,9845600021,praveen.pandey21@retailiq.com,Mumbai,Cashier,45,2025-08-12,20333,1
+22,Suresh Patel,9845600022,suresh.patel22@retailiq.com,Coimbatore,Sales Executive,27,2024-08-17,31091,1
+23,Abhishek Ali,9845600023,abhishek.ali23@retailiq.com,Ahmedabad,Technician,29,2023-07-11,29408,1
+24,Nithin Khan,9845600024,nithin.khan24@retailiq.com,Ahmedabad,Technician,40,2022-05-31,36972,1
+25,Rakesh Kumar,9845600025,rakesh.kumar25@retailiq.com,Kochi,Inventory Associate,7,2025-06-26,27673,1
+26,Ajay Das,9845600026,ajay.das26@retailiq.com,Ahmedabad,Cashier,13,2026-07-17,27436,1
+27,Vikram Mishra,9845600027,vikram.mishra27@retailiq.com,Pune,Technician,19,2025-04-15,36453,1
+28,Praveen Thomas,9845600028,praveen.thomas28@retailiq.com,Hyderabad,Assistant Manager,28,2021-05-27,54532,1
+29,Kiran Khan,9845600029,kiran.khan29@retailiq.com,Kolkata,Customer Support,46,2024-10-03,27596,1
+30,Kiran Murugan,9845600030,kiran.murugan30@retailiq.com,Pune,Technician,38,2024-08-16,30945,0
+31,Nithin Prasad,9845600031,nithin.prasad31@retailiq.com,Coimbatore,Technician,30,2026-06-30,28450,1
+32,Siva Verma,9845600032,siva.verma32@retailiq.com,Delhi,Security,37,2024-06-20,19587,1
+33,Bharath Yadav,9845600033,bharath.yadav33@retailiq.com,Chennai,Security,26,2023-05-20,18770,1
+34,Gokul Yadav,9845600034,gokul.yadav34@retailiq.com,Coimbatore,Cashier,7,2024-04-16,22304,1
+35,Dinesh Nair,9845600035,dinesh.nair35@retailiq.com,Coimbatore,Assistant Manager,8,2024-04-21,51709,1
+36,Naveen Selvam,9845600036,naveen.selvam36@retailiq.com,Bangalore,Sales Executive,37,2021-09-28,29894,0
+37,Sathish Murugan,9845600037,sathish.murugan37@retailiq.com,Pune,Sales Executive,6,2024-07-04,29505,1
+38,Bharath Jain,9845600038,bharath.jain38@retailiq.com,Ahmedabad,Security,36,2026-05-16,19676,1
+39,Ashwin Singh,9845600039,ashwin.singh39@retailiq.com,Kolkata,Cashier,28,2023-09-15,24144,0
+40,Kishore Babu,9845600040,kishore.babu40@retailiq.com,Ahmedabad,Housekeeping,12,2022-01-25,17995,1
+41,Saravanan Selvam,9845600041,saravanan.selvam41@retailiq.com,Chennai,Store Manager,39,2026-07-11,68047,1
+42,Ganesh Murugan,9845600042,ganesh.murugan42@retailiq.com,Ahmedabad,Cashier,39,2022-05-03,21625,0
+43,Naveen Gupta,9845600043,naveen.gupta43@retailiq.com,Ahmedabad,Cashier,30,2026-04-13,24015,1
+44,Vignesh Raman,9845600044,vignesh.raman44@retailiq.com,Ahmedabad,Customer Support,29,2023-04-30,23527,1
+45,Bharath Srinivasan,9845600045,bharath.srinivasan45@retailiq.com,Delhi,Sales Executive,17,2024-08-18,25545,1
+46,Prakash Subramanian,9845600046,prakash.subramanian46@retailiq.com,Coimbatore,Inventory Associate,22,2021-06-20,26864,1
+47,Anand Srinivasan,9845600047,anand.srinivasan47@retailiq.com,Coimbatore,Customer Support,20,2021-01-10,22391,1
+48,Ajay Reddy,9845600048,ajay.reddy48@retailiq.com,Bangalore,Technician,43,2024-12-23,39311,1
+49,Rohit Krishnan,9845600049,rohit.krishnan49@retailiq.com,Chennai,Sales Executive,24,2025-10-05,22057,1
+50,Ajay Narayanan,9845600050,ajay.narayanan50@retailiq.com,Mumbai,Assistant Manager,8,2023-03-21,42039,1
+51,Arjun Srinivasan,9845600051,arjun.srinivasan51@retailiq.com,Ahmedabad,Sales Executive,13,2026-04-22,22051,1
+52,Ashwin Pillai,9845600052,ashwin.pillai52@retailiq.com,Chennai,Assistant Manager,20,2025-06-23,42065,1
+53,Rahul Thomas,9845600053,rahul.thomas53@retailiq.com,Bangalore,Security,17,2024-05-18,18691,1
+54,Rakesh Jain,9845600054,rakesh.jain54@retailiq.com,Delhi,Inventory Associate,14,2022-09-26,26031,0
+55,Praveen Singh,9845600055,praveen.singh55@retailiq.com,Delhi,Cashier,33,2022-12-13,25745,1
+56,Prakash Kumar,9845600056,prakash.kumar56@retailiq.com,Kolkata,Assistant Manager,16,2024-03-28,42613,1
+57,Gokul Babu,9845600057,gokul.babu57@retailiq.com,Kochi,Sales Executive,5,2021-06-12,33627,1
+58,Manoj Pandey,9845600058,manoj.pandey58@retailiq.com,Hyderabad,Sales Executive,15,2022-04-19,27265,1
+59,Saravanan Nair,9845600059,saravanan.nair59@retailiq.com,Kochi,Inventory Associate,13,2021-09-02,24165,1
+60,Aravind Pillai,9845600060,aravind.pillai60@retailiq.com,Mumbai,Technician,24,2026-01-18,36117,1
+61,Bharath Patel,9845600061,bharath.patel61@retailiq.com,Kochi,Sales Executive,14,2025-07-08,26379,1
+62,Karthik Subramanian,9845600062,karthik.subramanian62@retailiq.com,Ahmedabad,Security,7,2025-08-31,21718,1
+63,Surya Khan,9845600063,surya.khan63@retailiq.com,Delhi,Sales Executive,38,2024-12-07,24651,1
+64,Deepak Sharma,9845600064,deepak.sharma64@retailiq.com,Bangalore,Security,14,2023-07-20,19409,0
+65,Dinesh Raj,9845600065,dinesh.raj65@retailiq.com,Kochi,Housekeeping,30,2021-08-26,16311,1
+66,Suresh Krishnan,9845600066,suresh.krishnan66@retailiq.com,Mumbai,Customer Support,5,2024-04-03,23857,1
+67,Rakesh Menon,9845600067,rakesh.menon67@retailiq.com,Mumbai,Technician,20,2024-05-16,28481,0
+68,Mohan Yadav,9845600068,mohan.yadav68@retailiq.com,Hyderabad,Cashier,1,2026-06-19,22896,1
+69,Varun Ravi,9845600069,varun.ravi69@retailiq.com,Hyderabad,Technician,36,2026-07-01,33914,1
+70,Vikram Murugan,9845600070,vikram.murugan70@retailiq.com,Coimbatore,Cashier,49,2024-07-05,23294,1
+71,Anand Rao,9845600071,anand.rao71@retailiq.com,Pune,Customer Support,16,2024-03-31,30950,1
+72,Ganesh Nair,9845600072,ganesh.nair72@retailiq.com,Coimbatore,Customer Support,2,2023-07-30,29418,1
+73,Lokesh Gupta,9845600073,lokesh.gupta73@retailiq.com,Coimbatore,Security,22,2024-02-21,24337,1
+74,Ashwin Iyer,9845600074,ashwin.iyer74@retailiq.com,Bangalore,Customer Support,41,2024-07-29,28397,1
+75,Manoj Mohan,9845600075,manoj.mohan75@retailiq.com,Ahmedabad,Customer Support,30,2025-05-27,31926,1
+76,Prakash Srinivasan,9845600076,prakash.srinivasan76@retailiq.com,Ahmedabad,Sales Executive,26,2024-01-23,28302,1
+77,Siva Arun,9845600077,siva.arun77@retailiq.com,Pune,Sales Executive,11,2026-04-10,33371,1
+78,Dinesh Narayanan,9845600078,dinesh.narayanan78@retailiq.com,Hyderabad,Cashier,37,2021-06-14,21481,1
+79,Deepak Mohan,9845600079,deepak.mohan79@retailiq.com,Delhi,Security,33,2026-04-16,21276,1
+80,Varun Selvam,9845600080,varun.selvam80@retailiq.com,Ahmedabad,Inventory Associate,4,2022-08-10,29750,1
+81,Sanjay Menon,9845600081,sanjay.menon81@retailiq.com,Kochi,Housekeeping,43,2025-03-17,17890,1
+82,Manoj Patel,9845600082,manoj.patel82@retailiq.com,Mumbai,Sales Executive,8,2025-01-11,25603,1
+83,Rakesh Chandra,9845600083,rakesh.chandra83@retailiq.com,Hyderabad,Sales Executive,37,2023-02-21,29640,1
+84,Naveen Rao,9845600084,naveen.rao84@retailiq.com,Mumbai,Assistant Manager,16,2023-10-01,41424,1
+85,Ashwin Ravi,9845600085,ashwin.ravi85@retailiq.com,Coimbatore,Security,28,2021-06-03,18476,1
+86,Suresh Chandra,9845600086,suresh.chandra86@retailiq.com,Bangalore,Security,49,2024-02-15,22315,1
+87,Rohit Menon,9845600087,rohit.menon87@retailiq.com,Ahmedabad,Sales Executive,25,2024-03-18,26493,1
+88,Harish Nair,9845600088,harish.nair88@retailiq.com,Ahmedabad,Sales Executive,36,2021-12-22,30305,1
+89,Karthik Arun,9845600089,karthik.arun89@retailiq.com,Mumbai,Assistant Manager,20,2021-10-28,42590,1
+90,Nithin Thomas,9845600090,nithin.thomas90@retailiq.com,Mumbai,Cashier,20,2024-10-06,20239,1
+91,Kishore Chandra,9845600091,kishore.chandra91@retailiq.com,Mumbai,Sales Executive,20,2022-10-04,23118,1
+92,Aravind Srinivasan,9845600092,aravind.srinivasan92@retailiq.com,Kochi,Customer Support,11,2022-12-17,26717,1
+93,Kiran Verma,9845600093,kiran.verma93@retailiq.com,Chennai,Inventory Associate,35,2025-01-30,26173,1
+94,Vikram Das,9845600094,vikram.das94@retailiq.com,Pune,Security,27,2022-01-13,20691,1
+95,Prakash Venkatesh,9845600095,prakash.venkatesh95@retailiq.com,Kolkata,Customer Support,1,2023-02-20,28748,1
+96,Siva Ali,9845600096,siva.ali96@retailiq.com,Pune,Assistant Manager,48,2025-03-29,49484,0
+97,Prakash Babu,9845600097,prakash.babu97@retailiq.com,Mumbai,Cashier,9,2021-05-05,25943,1
+98,Abhishek Thomas,9845600098,abhishek.thomas98@retailiq.com,Coimbatore,Technician,37,2023-11-10,33660,1
+99,Rahul Singh,9845600099,rahul.singh99@retailiq.com,Coimbatore,Assistant Manager,42,2023-11-11,43852,1
+100,Rahul Ravi,9845600100,rahul.ravi100@retailiq.com,Mumbai,Technician,14,2024-04-10,31018,1
+101,Surya Krishnan,9845600101,surya.krishnan101@retailiq.com,Coimbatore,Cashier,33,2022-04-25,26734,1
+102,Ramesh Ravi,9845600102,ramesh.ravi102@retailiq.com,Hyderabad,Customer Support,46,2024-01-12,25995,1
+103,Kiran Joseph,9845600103,kiran.joseph103@retailiq.com,Ahmedabad,Sales Executive,7,2025-02-14,29214,1
+104,Saravanan Patel,9845600104,saravanan.patel104@retailiq.com,Ahmedabad,Customer Support,6,2024-03-18,24085,1
+105,Sathish Babu,9845600105,sathish.babu105@retailiq.com,Delhi,Cashier,47,2023-05-07,25487,1
+106,Rohit Rao,9845600106,rohit.rao106@retailiq.com,Bangalore,Cashier,50,2026-01-24,26311,1
+107,Ajay Narayanan,9845600107,ajay.narayanan107@retailiq.com,Delhi,Customer Support,33,2025-06-01,24463,1
+108,Anand Nair,9845600108,anand.nair108@retailiq.com,Kolkata,Sales Executive,1,2023-07-08,25015,1
+109,Akash Joseph,9845600109,akash.joseph109@retailiq.com,Delhi,Inventory Associate,39,2023-10-31,23064,1
+110,Vinod Mohan,9845600110,vinod.mohan110@retailiq.com,Coimbatore,Cashier,28,2021-03-19,26403,1
+111,Vinod Joseph,9845600111,vinod.joseph111@retailiq.com,Chennai,Cashier,21,2023-10-10,20422,1
+112,Abhishek Joseph,9845600112,abhishek.joseph112@retailiq.com,Kochi,Sales Executive,42,2026-04-16,26589,1
+113,Suresh Fernandes,9845600113,suresh.fernandes113@retailiq.com,Chennai,Housekeeping,39,2024-01-01,19049,1
+114,Senthil Gupta,9845600114,senthil.gupta114@retailiq.com,Bangalore,Sales Executive,41,2023-11-18,29202,1
+115,Vinod Chandra,9845600115,vinod.chandra115@retailiq.com,Hyderabad,Sales Executive,4,2021-05-12,27094,1
+116,Senthil Sharma,9845600116,senthil.sharma116@retailiq.com,Chennai,Customer Support,21,2021-04-18,24024,1
+117,Nithin Singh,9845600117,nithin.singh117@retailiq.com,Mumbai,Housekeeping,41,2024-07-23,18217,1
+118,Surya Subramanian,9845600118,surya.subramanian118@retailiq.com,Bangalore,Cashier,12,2026-03-30,22086,1
+119,Surya Yadav,9845600119,surya.yadav119@retailiq.com,Pune,Technician,3,2021-12-03,30133,1
+120,Manoj Kumar,9845600120,manoj.kumar120@retailiq.com,Delhi,Customer Support,42,2026-06-15,23064,1
+121,Lokesh Chandra,9845600121,lokesh.chandra121@retailiq.com,Chennai,Customer Support,41,2022-01-24,31880,1
+122,Arjun Sekar,9845600122,arjun.sekar122@retailiq.com,Hyderabad,Security,42,2021-05-09,24866,1
+123,Abhishek Mishra,9845600123,abhishek.mishra123@retailiq.com,Bangalore,Sales Executive,1,2023-10-15,23841,0
+124,Surya Venkatesh,9845600124,surya.venkatesh124@retailiq.com,Hyderabad,Sales Executive,10,2022-01-06,24498,1
+125,Rohit Raj,9845600125,rohit.raj125@retailiq.com,Kolkata,Cashier,35,2022-11-07,23746,1
+126,Ajay Kumar,9845600126,ajay.kumar126@retailiq.com,Pune,Sales Executive,22,2025-06-13,23044,1
+127,Prakash Prasad,9845600127,prakash.prasad127@retailiq.com,Mumbai,Security,10,2024-04-15,24133,1
+128,Aravind Raj,9845600128,aravind.raj128@retailiq.com,Delhi,Inventory Associate,45,2025-12-17,28428,1
+129,Harish Narayanan,9845600129,harish.narayanan129@retailiq.com,Ahmedabad,Inventory Associate,8,2022-03-10,29883,1
+130,Surya Pandey,9845600130,surya.pandey130@retailiq.com,Bangalore,Assistant Manager,25,2023-02-11,45657,1
+131,Praveen Sharma,9845600131,praveen.sharma131@retailiq.com,Kochi,Sales Executive,5,2026-04-22,22212,1
+132,Ashwin Ravi,9845600132,ashwin.ravi132@retailiq.com,Coimbatore,Cashier,16,2024-10-20,22523,1
+133,Prakash Raman,9845600133,prakash.raman133@retailiq.com,Delhi,Sales Executive,24,2026-06-30,28053,1
+134,Bharath Prasad,9845600134,bharath.prasad134@retailiq.com,Pune,Store Manager,50,2021-03-17,68279,1
+135,Naveen Iyer,9845600135,naveen.iyer135@retailiq.com,Pune,Inventory Associate,5,2022-12-26,24808,1
+136,Manoj Sharma,9845600136,manoj.sharma136@retailiq.com,Kochi,Cashier,45,2024-06-08,21489,1
+137,Suresh Nair,9845600137,suresh.nair137@retailiq.com,Pune,Technician,33,2022-05-29,35861,1
+138,Kiran Thomas,9845600138,kiran.thomas138@retailiq.com,Delhi,Sales Executive,38,2026-04-14,22436,1
+139,Rahul Ali,9845600139,rahul.ali139@retailiq.com,Mumbai,Sales Executive,39,2023-07-31,32756,1
+140,Bharath Verma,9845600140,bharath.verma140@retailiq.com,Bangalore,Inventory Associate,39,2021-12-07,22574,1
+141,Lokesh Mohan,9845600141,lokesh.mohan141@retailiq.com,Chennai,Sales Executive,49,2024-09-29,25587,1
+142,Praveen Srinivasan,9845600142,praveen.srinivasan142@retailiq.com,Kochi,Sales Executive,6,2022-09-06,24733,1
+143,Sathish Balaji,9845600143,sathish.balaji143@retailiq.com,Delhi,Technician,46,2021-12-25,28305,1
+144,Ashwin Pandey,9845600144,ashwin.pandey144@retailiq.com,Mumbai,Store Manager,19,2026-05-16,60012,1
+145,Ganesh Narayanan,9845600145,ganesh.narayanan145@retailiq.com,Delhi,Cashier,18,2021-08-03,27252,1
+146,Kishore Prasad,9845600146,kishore.prasad146@retailiq.com,Delhi,Sales Executive,21,2026-07-22,26863,1
+147,Arjun Joseph,9845600147,arjun.joseph147@retailiq.com,Pune,Sales Executive,16,2026-05-21,24529,0
+148,Bharath Singh,9845600148,bharath.singh148@retailiq.com,Delhi,Cashier,46,2026-03-13,22054,1
+149,Vignesh Selvam,9845600149,vignesh.selvam149@retailiq.com,Bangalore,Sales Executive,4,2024-08-26,32584,1
+150,Vikram Sekar,9845600150,vikram.sekar150@retailiq.com,Mumbai,Security,11,2024-11-08,21454,1
+151,Prakash Chauhan,9845600151,prakash.chauhan151@retailiq.com,Hyderabad,Cashier,44,2021-02-18,20571,1
+152,Vinod Sharma,9845600152,vinod.sharma152@retailiq.com,Coimbatore,Cashier,27,2025-09-01,26660,1
+153,Rakesh Ravi,9845600153,rakesh.ravi153@retailiq.com,Hyderabad,Cashier,38,2024-04-19,23984,1
+154,Vinod Chandra,9845600154,vinod.chandra154@retailiq.com,Delhi,Housekeeping,47,2026-04-02,19183,1
+155,Aravind Gupta,9845600155,aravind.gupta155@retailiq.com,Pune,Store Manager,47,2026-02-03,55393,1
+156,Ashwin Khan,9845600156,ashwin.khan156@retailiq.com,Chennai,Customer Support,50,2025-09-16,22280,1
+157,Vinod Chandra,9845600157,vinod.chandra157@retailiq.com,Pune,Sales Executive,27,2023-03-28,30212,1
+158,Siva Verma,9845600158,siva.verma158@retailiq.com,Kolkata,Sales Executive,24,2023-06-15,30423,1
+159,Deepak Narayanan,9845600159,deepak.narayanan159@retailiq.com,Coimbatore,Customer Support,37,2025-07-21,29906,1
+160,Sanjay Sharma,9845600160,sanjay.sharma160@retailiq.com,Coimbatore,Cashier,40,2023-05-23,24756,1
+161,Senthil Das,9845600161,senthil.das161@retailiq.com,Kolkata,Cashier,10,2024-06-12,21104,1
+162,Rahul Thomas,9845600162,rahul.thomas162@retailiq.com,Kochi,Security,17,2021-04-05,18298,1
+163,Ajay Reddy,9845600163,ajay.reddy163@retailiq.com,Ahmedabad,Inventory Associate,32,2022-01-11,23059,1
+164,Nithin Srinivasan,9845600164,nithin.srinivasan164@retailiq.com,Pune,Cashier,39,2024-09-04,23649,1
+165,Mohan Raj,9845600165,mohan.raj165@retailiq.com,Mumbai,Sales Executive,44,2021-01-08,22491,1
+166,Surya Selvam,9845600166,surya.selvam166@retailiq.com,Delhi,Store Manager,45,2024-08-30,66525,1
+167,Prakash Sharma,9845600167,prakash.sharma167@retailiq.com,Mumbai,Cashier,23,2023-06-17,26359,1
+168,Manoj Venkatesh,9845600168,manoj.venkatesh168@retailiq.com,Kolkata,Inventory Associate,46,2025-06-24,22753,1
+169,Vignesh Sekar,9845600169,vignesh.sekar169@retailiq.com,Coimbatore,Customer Support,22,2025-04-04,24740,1
+170,Surya Chandra,9845600170,surya.chandra170@retailiq.com,Chennai,Housekeeping,21,2025-01-31,19744,1
+171,Lokesh Ravi,9845600171,lokesh.ravi171@retailiq.com,Kochi,Sales Executive,37,2023-02-27,33400,1
+172,Prakash Thomas,9845600172,prakash.thomas172@retailiq.com,Bangalore,Customer Support,7,2024-05-17,26201,1
+173,Suresh Chandra,9845600173,suresh.chandra173@retailiq.com,Hyderabad,Inventory Associate,26,2022-11-09,23918,0
+174,Abhishek Singh,9845600174,abhishek.singh174@retailiq.com,Ahmedabad,Sales Executive,6,2023-03-01,25947,1
+175,Suresh Mishra,9845600175,suresh.mishra175@retailiq.com,Mumbai,Security,26,2023-10-13,23729,1
+176,Rohit Selvam,9845600176,rohit.selvam176@retailiq.com,Kochi,Sales Executive,4,2026-04-05,29992,1
+177,Rahul Singh,9845600177,rahul.singh177@retailiq.com,Delhi,Housekeeping,27,2025-12-05,18727,1
+178,Kishore Murugan,9845600178,kishore.murugan178@retailiq.com,Bangalore,Customer Support,19,2024-05-12,22602,1
+179,Vikram Ali,9845600179,vikram.ali179@retailiq.com,Kochi,Inventory Associate,39,2024-10-17,26107,1
+180,Vikram Selvam,9845600180,vikram.selvam180@retailiq.com,Coimbatore,Cashier,18,2025-06-18,23306,1
+181,Ramesh Murugan,9845600181,ramesh.murugan181@retailiq.com,Pune,Customer Support,41,2023-09-18,26787,1
+182,Saravanan Babu,9845600182,saravanan.babu182@retailiq.com,Chennai,Customer Support,10,2021-04-12,28700,1
+183,Vikram Iyer,9845600183,vikram.iyer183@retailiq.com,Delhi,Cashier,6,2024-03-20,22409,1
+184,Akash Mohan,9845600184,akash.mohan184@retailiq.com,Pune,Assistant Manager,37,2024-12-05,41089,1
+185,Sanjay Ravi,9845600185,sanjay.ravi185@retailiq.com,Pune,Sales Executive,30,2025-05-27,22161,0
+186,Dinesh Fernandes,9845600186,dinesh.fernandes186@retailiq.com,Pune,Sales Executive,31,2024-04-20,29413,1
+187,Kishore Reddy,9845600187,kishore.reddy187@retailiq.com,Delhi,Sales Executive,35,2026-03-04,24387,1
+188,Anand Murugan,9845600188,anand.murugan188@retailiq.com,Chennai,Technician,23,2025-09-22,33067,1
+189,Naveen Yadav,9845600189,naveen.yadav189@retailiq.com,Chennai,Sales Executive,48,2025-03-31,23216,1
+190,Akash Menon,9845600190,akash.menon190@retailiq.com,Coimbatore,Security,1,2026-07-09,22577,1
+191,Rakesh Thomas,9845600191,rakesh.thomas191@retailiq.com,Mumbai,Cashier,32,2022-04-11,25285,1
+192,Aravind Singh,9845600192,aravind.singh192@retailiq.com,Delhi,Technician,2,2021-04-26,33736,1
+193,Dinesh Kumar,9845600193,dinesh.kumar193@retailiq.com,Kolkata,Assistant Manager,28,2025-11-07,52759,1
+194,Yogesh Arun,9845600194,yogesh.arun194@retailiq.com,Pune,Sales Executive,49,2025-05-12,29945,1
+195,Saravanan Arun,9845600195,saravanan.arun195@retailiq.com,Kochi,Customer Support,32,2021-07-27,24735,1
+196,Senthil Chauhan,9845600196,senthil.chauhan196@retailiq.com,Kochi,Inventory Associate,10,2022-11-16,25558,1
+197,Ganesh Murugan,9845600197,ganesh.murugan197@retailiq.com,Bangalore,Inventory Associate,18,2023-11-19,27728,1
+198,Anand Raj,9845600198,anand.raj198@retailiq.com,Mumbai,Sales Executive,9,2024-07-24,22706,1
+199,Bharath Chandra,9845600199,bharath.chandra199@retailiq.com,Kochi,Sales Executive,42,2023-12-08,24521,1
+200,Praveen Ravi,9845600200,praveen.ravi200@retailiq.com,Mumbai,Customer Support,23,2025-04-13,23572,1
+201,Karthik Srinivasan,9845600201,karthik.srinivasan201@retailiq.com,Pune,Technician,40,2024-11-06,33643,1
+202,Vikram Sekar,9845600202,vikram.sekar202@retailiq.com,Mumbai,Assistant Manager,41,2023-02-21,41919,1
+203,Suresh Narayanan,9845600203,suresh.narayanan203@retailiq.com,Kolkata,Technician,5,2025-09-30,31068,1
+204,Vinod Ravi,9845600204,vinod.ravi204@retailiq.com,Kochi,Cashier,44,2024-04-23,20270,0
+205,Harish Prasad,9845600205,harish.prasad205@retailiq.com,Bangalore,Customer Support,18,2026-02-12,30150,1
+206,Ganesh Rao,9845600206,ganesh.rao206@retailiq.com,Coimbatore,Assistant Manager,6,2024-06-06,45079,1
+207,Naveen Mishra,9845600207,naveen.mishra207@retailiq.com,Chennai,Inventory Associate,33,2024-12-06,26664,1
+208,Anand Jain,9845600208,anand.jain208@retailiq.com,Kochi,Technician,7,2023-03-12,39125,1
+209,Varun Raman,9845600209,varun.raman209@retailiq.com,Pune,Cashier,11,2024-06-12,21975,1
+210,Harish Arun,9845600210,harish.arun210@retailiq.com,Kochi,Inventory Associate,19,2026-01-13,27045,1
+211,Ashwin Krishnan,9845600211,ashwin.krishnan211@retailiq.com,Bangalore,Sales Executive,12,2024-04-20,23070,1
+212,Bharath Mohan,9845600212,bharath.mohan212@retailiq.com,Delhi,Security,36,2021-09-15,21881,1
+213,Mohan Balaji,9845600213,mohan.balaji213@retailiq.com,Chennai,Sales Executive,48,2024-06-16,27751,0
+214,Harish Iyer,9845600214,harish.iyer214@retailiq.com,Pune,Cashier,2,2024-02-04,24580,1
+215,Suresh Krishnan,9845600215,suresh.krishnan215@retailiq.com,Chennai,Technician,5,2021-11-15,36315,1
+216,Harish Mohan,9845600216,harish.mohan216@retailiq.com,Chennai,Cashier,11,2023-07-17,23721,1
+217,Surya Iyer,9845600217,surya.iyer217@retailiq.com,Pune,Housekeeping,50,2024-10-19,20163,0
+218,Harish Yadav,9845600218,harish.yadav218@retailiq.com,Ahmedabad,Security,22,2021-02-14,22377,1
+219,Akash Iyer,9845600219,akash.iyer219@retailiq.com,Chennai,Housekeeping,36,2022-03-09,18687,1
+220,Sathish Kumar,9845600220,sathish.kumar220@retailiq.com,Chennai,Customer Support,30,2023-07-30,30076,1
+221,Saravanan Joseph,9845600221,saravanan.joseph221@retailiq.com,Ahmedabad,Housekeeping,6,2025-01-24,21016,1
+222,Dinesh Mohan,9845600222,dinesh.mohan222@retailiq.com,Bangalore,Inventory Associate,23,2025-11-24,29505,1
+223,Anand Chandra,9845600223,anand.chandra223@retailiq.com,Chennai,Sales Executive,6,2023-04-22,33107,0
+224,Ganesh Joseph,9845600224,ganesh.joseph224@retailiq.com,Ahmedabad,Cashier,14,2024-07-01,24395,1
+225,Vikram Singh,9845600225,vikram.singh225@retailiq.com,Coimbatore,Sales Executive,46,2023-06-18,24020,1
+226,Rohit Pillai,9845600226,rohit.pillai226@retailiq.com,Kolkata,Technician,21,2021-06-04,28819,1
+227,Senthil Subramanian,9845600227,senthil.subramanian227@retailiq.com,Chennai,Sales Executive,44,2022-12-27,32362,1
+228,Suresh Ravi,9845600228,suresh.ravi228@retailiq.com,Bangalore,Housekeeping,48,2022-04-03,16629,1
+229,Ashwin Jain,9845600229,ashwin.jain229@retailiq.com,Coimbatore,Sales Executive,47,2023-11-19,30496,1
+230,Abhishek Narayanan,9845600230,abhishek.narayanan230@retailiq.com,Ahmedabad,Security,50,2021-11-01,18013,1
+231,Praveen Pillai,9845600231,praveen.pillai231@retailiq.com,Ahmedabad,Technician,20,2026-04-21,28560,1
+232,Surya Pillai,9845600232,surya.pillai232@retailiq.com,Kochi,Sales Executive,46,2023-10-30,25112,1
+233,Suresh Murugan,9845600233,suresh.murugan233@retailiq.com,Pune,Sales Executive,47,2022-01-06,26497,1
+234,Rahul Jain,9845600234,rahul.jain234@retailiq.com,Ahmedabad,Cashier,18,2026-04-19,24631,1
+235,Praveen Selvam,9845600235,praveen.selvam235@retailiq.com,Bangalore,Customer Support,12,2022-10-31,26696,1
+236,Manoj Verma,9845600236,manoj.verma236@retailiq.com,Delhi,Sales Executive,38,2023-10-26,30430,1
+237,Saravanan Yadav,9845600237,saravanan.yadav237@retailiq.com,Coimbatore,Cashier,45,2024-11-17,26620,1
+238,Karthik Yadav,9845600238,karthik.yadav238@retailiq.com,Coimbatore,Cashier,45,2024-02-08,24945,1
+239,Abhishek Chauhan,9845600239,abhishek.chauhan239@retailiq.com,Bangalore,Customer Support,25,2026-05-05,26974,1
+240,Kishore Nair,9845600240,kishore.nair240@retailiq.com,Bangalore,Inventory Associate,14,2024-06-17,26154,1
+241,Akash Sekar,9845600241,akash.sekar241@retailiq.com,Delhi,Security,19,2025-02-05,20657,1
+242,Sanjay Nair,9845600242,sanjay.nair242@retailiq.com,Mumbai,Cashier,6,2024-08-04,27019,1
+243,Rakesh Reddy,9845600243,rakesh.reddy243@retailiq.com,Kochi,Inventory Associate,26,2022-07-25,26126,1
+244,Surya Sharma,9845600244,surya.sharma244@retailiq.com,Kolkata,Store Manager,2,2026-04-27,67548,1
+245,Ganesh Mishra,9845600245,ganesh.mishra245@retailiq.com,Chennai,Store Manager,41,2021-10-18,59615,1
+246,Vikram Murugan,9845600246,vikram.murugan246@retailiq.com,Ahmedabad,Inventory Associate,1,2024-11-08,29713,1
+247,Lokesh Fernandes,9845600247,lokesh.fernandes247@retailiq.com,Mumbai,Cashier,48,2023-10-05,21236,1
+248,Kishore Thomas,9845600248,kishore.thomas248@retailiq.com,Delhi,Customer Support,38,2021-03-02,27502,1
+249,Anand Mohan,9845600249,anand.mohan249@retailiq.com,Bangalore,Security,20,2022-01-28,18248,1
+250,Ajay Srinivasan,9845600250,ajay.srinivasan250@retailiq.com,Bangalore,Technician,24,2021-06-25,30032,1

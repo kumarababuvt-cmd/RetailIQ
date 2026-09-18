@@ -1,0 +1,13 @@
+category_id,category_name,status
+1,SmartPhones,active
+2,Laptops,active
+3,Tablets,active
+4,Smart Watches,active
+5,Audio Devices,active
+6,Televisions,active
+7,Home Appliances,active
+8,Computer Accessories,non-active
+9,Gaming,active
+10,Cameras,active
+11,Networking Devices,active
+12,Storage Devices,non-active

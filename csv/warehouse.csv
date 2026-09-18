@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,warehouse_location,capacity
+1,Chennai Central Warehouse,Chennai,50000
+2,Bangalore Tech Warehouse,Bangalore,87348
+3,Hyderabad Distribution Center,Hyderabad,79310
+4,Mumbai Logistics Hub,Mumbai,82829
+5,Delhi Regional Warehouse,Delhi,77396
+6,Pune Fulfillment Center,Pune,55779
+7,Kolkata Storage Hub,Kolkata,69061
+8,Ahmedabad Distribution Center,Ahmedabad,54093
+9,Coimbatore Warehouse,Coimbatore,91487
+10,Kochi Supply Hub,Kochi,75395

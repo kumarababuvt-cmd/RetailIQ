@@ -1,0 +1,51 @@
+store_id,store_location,phone_number,email,store_capacity,status
+1,Chennai - T Nagar,9876500001,store01@retailiq.com,562,1
+2,Chennai - Velachery,9876500002,store02@retailiq.com,513,1
+3,Chennai - Anna Nagar,9876500003,store03@retailiq.com,806,1
+4,Chennai - Tambaram,9876500004,store04@retailiq.com,595,1
+5,Chennai - OMR,9876500005,store05@retailiq.com,514,1
+6,Bangalore - Indiranagar,9876500006,store06@retailiq.com,729,1
+7,Bangalore - Whitefield,9876500007,store07@retailiq.com,740,1
+8,Bangalore - Koramangala,9876500008,store08@retailiq.com,808,1
+9,Bangalore - Jayanagar,9876500009,store09@retailiq.com,901,1
+10,Bangalore - Electronic City,9876500010,store10@retailiq.com,581,1
+11,Hyderabad - Hitech City,9876500011,store11@retailiq.com,670,1
+12,Hyderabad - Banjara Hills,9876500012,store12@retailiq.com,807,1
+13,Hyderabad - Gachibowli,9876500013,store13@retailiq.com,623,1
+14,Hyderabad - Kukatpally,9876500014,store14@retailiq.com,676,0
+15,Hyderabad - Secunderabad,9876500015,store15@retailiq.com,820,1
+16,Mumbai - Andheri,9876500016,store16@retailiq.com,670,1
+17,Mumbai - Bandra,9876500017,store17@retailiq.com,867,1
+18,Mumbai - Powai,9876500018,store18@retailiq.com,951,0
+19,Mumbai - Navi Mumbai,9876500019,store19@retailiq.com,806,1
+20,Mumbai - Thane,9876500020,store20@retailiq.com,677,1
+21,Delhi - Connaught Place,9876500021,store21@retailiq.com,626,1
+22,Delhi - Karol Bagh,9876500022,store22@retailiq.com,582,1
+23,Delhi - Rohini,9876500023,store23@retailiq.com,563,1
+24,Delhi - Dwarka,9876500024,store24@retailiq.com,584,1
+25,Delhi - Saket,9876500025,store25@retailiq.com,723,0
+26,Pune - Hinjewadi,9876500026,store26@retailiq.com,766,1
+27,Pune - Kothrud,9876500027,store27@retailiq.com,810,0
+28,Pune - Viman Nagar,9876500028,store28@retailiq.com,552,1
+29,Pune - Baner,9876500029,store29@retailiq.com,844,1
+30,Pune - Hadapsar,9876500030,store30@retailiq.com,622,1
+31,Kolkata - Salt Lake,9876500031,store31@retailiq.com,580,1
+32,Kolkata - Park Street,9876500032,store32@retailiq.com,987,1
+33,Kolkata - New Town,9876500033,store33@retailiq.com,727,1
+34,Kolkata - Howrah,9876500034,store34@retailiq.com,982,1
+35,Kolkata - Garia,9876500035,store35@retailiq.com,892,1
+36,Ahmedabad - Satellite,9876500036,store36@retailiq.com,560,1
+37,Ahmedabad - Navrangpura,9876500037,store37@retailiq.com,931,1
+38,Ahmedabad - SG Highway,9876500038,store38@retailiq.com,839,1
+39,Ahmedabad - Maninagar,9876500039,store39@retailiq.com,557,1
+40,Ahmedabad - Bopal,9876500040,store40@retailiq.com,1000,1
+41,Coimbatore - Gandhipuram,9876500041,store41@retailiq.com,571,1
+42,Coimbatore - RS Puram,9876500042,store42@retailiq.com,559,1
+43,Coimbatore - Peelamedu,9876500043,store43@retailiq.com,681,1
+44,Coimbatore - Saibaba Colony,9876500044,store44@retailiq.com,947,1
+45,Coimbatore - Singanallur,9876500045,store45@retailiq.com,674,1
+46,Kochi - Edappally,9876500046,store46@retailiq.com,555,1
+47,Kochi - Kakkanad,9876500047,store47@retailiq.com,815,0
+48,Kochi - MG Road,9876500048,store48@retailiq.com,962,1
+49,Kochi - Vyttila,9876500049,store49@retailiq.com,805,1
+50,Kochi - Aluva,9876500050,store50@retailiq.com,741,1

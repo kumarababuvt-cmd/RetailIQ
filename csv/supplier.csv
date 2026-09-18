@@ -1,0 +1,42 @@
+supplier_id,supplier_name,product_quality,correct_time_delivery_rating,total_deliveries
+1,Apple,93,78,745
+2,Samsung,90,82,1226
+3,Dell ,81,90,615
+4,HP,74,86,933
+5,Lenovo,83,96,3599
+6,LG ,87,96,4313
+7,Sony,78,99,1607
+8,ASUS,72,88,1530
+9,Acer,77,81,3681
+10,Canon,72,98,4713
+11,Xiaomi,80,77,1380
+12,Garmin,96,79,2862
+13,Amazfit,98,90,2444
+14,Cisco,87,85,1336
+15,Ubiquiti,91,76,920
+16,Kingston,86,94,2698
+17,SanDisk,79,88,1680
+18,Hisense,86,75,3904
+19,OnePlus,80,87,4629
+20,Google,97,86,4786
+21,Nothing,85,76,2051
+22,MSI,99,88,3344
+23,JBL,81,95,2211
+24,Boat,76,75,4506
+25,Whirlpool,74,90,2423
+26,Bosch,71,91,3822
+27,IFB,99,99,4304
+28,Logitech,93,85,1981
+29,Corsair,73,89,3034
+30,TP-Link,78,94,1089
+31,Microsoft,72,93,1723
+32,Nintendo,77,81,1037
+33,Razer,93,87,4003
+34,Nikon,89,76,622
+35,Fujifilm,87,84,3982
+36,Panasonic,91,86,2472
+37,Netgear,95,83,2624
+38,D-Link,89,77,938
+39,Western Digital,78,81,3961
+40,Seagate,79,81,2505
+41,TCL,94,78,3276
