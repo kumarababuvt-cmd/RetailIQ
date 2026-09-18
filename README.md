@@ -1,6 +1,6 @@
 # 🛍️ RetailIQ
 
-### End-to-End Retail Analytics Project using Python, MySQL, SQL, Jupyter Notebook & Power BI
+### End-to-End Retail Analytics Project using Python, MySQL, SQL & Power BI
 
 RetailIQ is an end-to-end retail analytics portfolio project that simulates a realistic electronics retail business. The project follows a complete analytics workflow — from synthetic data generation and relational database design to SQL analysis, data validation, DAX calculations, and interactive Power BI dashboards.
 
@@ -199,19 +199,19 @@ Analyzes how key business metrics change over time.
 ## 📊 Power BI Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 ### Customer Intelligence
-![Customer Intelligence](screenshots/customer_intelligence.png)
+![Customer Intelligence](Screenshots/customer_intelligence.png)
 
 ### Product Performance
-![Product Performance](screenshots/product_performance.png)
+![Product Performance](Screenshots/product_performance.png)
 
 ### Store & Inventory
-![Store & Inventory](screenshots/store_inventory.png)
+![Store & Inventory](Screenshots/store_inventory.png)
 
 ### Trends & Time Intelligence
-![Trends & Time Intelligence](screenshots/trends_time_intelligence.png)
+![Trends & Time Intelligence](Screenshots/trends_time_intelligence.png)
 
 ## 🔍 Key Business Questions
 
@@ -388,10 +388,6 @@ RetailIQ/
 │   ├── payments.csv
 │   └── returns.csv
 │
-├── documentation/
-│
-|
-│
 │
 ├── powerbi/
 │   └── RetailIQ.pbix
@@ -461,7 +457,7 @@ RetailIQ/
 | Product Performance | ✅ Completed |
 | Store & Inventory | ✅ Completed |
 | Trends & Time Intelligence | ✅ Completed |
-| Portfolio Packaging | 🚀 In Progress |
+| Portfolio Packaging | ✅ Completed |
 
 ---
 
