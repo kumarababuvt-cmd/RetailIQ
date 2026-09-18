@@ -536,9 +536,9 @@ Open the `.pbix` file in Power BI Desktop to explore the five dashboard pages an
 
 ## 👨‍💻 Author
 
-**Kumara Babu**
+**Kumara Babu V T**
 
-MCA Student | Aspiring Data Analyst
+MCA | Aspiring Data Analyst
 
 ---
 
